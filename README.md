@@ -22,4 +22,4 @@
 - PostgreSQL
 - SQLite
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-damasceno&theme=dark)](https://github.com/arthur-damasceno/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-damasceno&theme=dark)](https://github.com/arthur-damasceno/arthur-damasceno)
