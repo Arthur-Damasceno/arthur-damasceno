@@ -7,8 +7,8 @@
 - And Tech Enthusiast
 
 # 🌱 I'm currently learning:
-- NestJs
-- VueJs 
+- Nest.js
+- React.js
 <br>
 <strong>Hobbies: Games & Animes</strong>
 
