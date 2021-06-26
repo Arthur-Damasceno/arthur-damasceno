@@ -1,4 +1,4 @@
-### Hi, I'm Arthur Damasceno 
+# Hi, I'm Arthur Damasceno 
 
 # About
 - A high school student,
