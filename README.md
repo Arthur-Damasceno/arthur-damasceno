@@ -7,7 +7,7 @@
 - And Tech Enthusiast
 
 # 🌱 I'm currently learning:
-- React Native
+- Next.js
 <br>
 <strong>Hobbies: Games & Animes</strong>
 
@@ -22,6 +22,8 @@
 - MySQL
 - PostgreSQL
 - SQLite
-- MongoDB
+- React JS/Native
+- Styled Components
+- Expo
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-damasceno&theme=dark)](https://github.com/arthur-damasceno/arthur-damasceno)
