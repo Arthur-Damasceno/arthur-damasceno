@@ -7,7 +7,8 @@
 - And Tech Enthusiast
 
 # 🌱 I'm currently learning:
-- Next.js
+- Redis
+- discord.js
 <br>
 <strong>Hobbies: Games & Animes</strong>
 
@@ -17,13 +18,7 @@
 - Typescript
 - Node.js
 - Nest.js
-- Html
-- Css
-- MySQL
-- PostgreSQL
-- SQLite
-- React JS/Native
-- Styled Components
-- Expo
+- Html/CSS
+- SQL
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-damasceno&theme=dark)](https://github.com/arthur-damasceno/arthur-damasceno)
