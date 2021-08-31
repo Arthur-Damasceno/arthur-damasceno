@@ -7,8 +7,7 @@
 - And Tech Enthusiast
 
 # 🌱 I'm currently learning:
-- Redis
-- discord.js
+- Svelte 
 <br>
 <strong>Hobbies: Games & Animes</strong>
 
