@@ -2,17 +2,17 @@
 
 # About
 - A high school student,
-- 14 years,
+- 15 years,
 - Brazilian,
 - And Tech Enthusiast
 
 # 🌱 I'm currently learning:
-- Svelte 
+- Python
 <br>
 <strong>Hobbies: Games & Animes</strong>
 
 # 🛠️ Technologies and Tools
-- Python
+
 - Javascript
 - Typescript
 - Node.js
