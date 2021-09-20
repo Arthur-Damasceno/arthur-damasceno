@@ -7,7 +7,7 @@
 - And Tech Enthusiast
 
 # 🌱 I'm currently learning:
-- Python
+- Rust 🦀
 <br>
 <strong>Hobbies: Games & Animes</strong>
 
@@ -17,6 +17,7 @@
 - Typescript
 - Node.js
 - Nest.js
+- Python
 - Html/CSS
 - SQL
 
