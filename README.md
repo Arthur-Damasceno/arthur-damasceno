@@ -9,7 +9,6 @@
 # 🌱 I'm currently learning:
 - Rust 🦀
 <br>
-<strong>Hobbies: Games & Animes</strong>
 
 # 🛠️ Technologies and Tools
 
