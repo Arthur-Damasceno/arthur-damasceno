@@ -4,19 +4,7 @@
 - A high school student,
 - 15 years,
 - Brazilian,
-- And Tech Enthusiast
-
-# 🌱 I'm currently learning:
-- Rust 🦀
-<br>
-
-# 🛠️ Technologies and Tools
-
-- Javascript
-- Typescript
-- Node.js
-- Nest.js
-- Python
-- SQL
+- Tech Enthusiast
+- And Rustacean
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-damasceno&theme=dark)](https://github.com/arthur-damasceno/arthur-damasceno)
